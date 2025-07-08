@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+vnstock
+scipy
+plotly
+datetime
